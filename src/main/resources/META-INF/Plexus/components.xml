@@ -1,0 +1,8 @@
+<component-set>
+    <components>
+        <component>
+            <role>org.eclipse.aether.RepositorySystem</role>
+            <implementation>org.eclipse.aether.internal.impl.DefaultRepositorySystem</implementation>
+        </component>
+    </components>
+</component-set>
